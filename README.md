@@ -2,7 +2,7 @@
 
 Modified color scheme based on [Paraíso](https://github.com/idleberg/Paraiso.tmTheme), a theme inspired by the work of [Rubens LP](http://www.rubenslp.com.br).
 
-![Animated Screenshot](https://raw.github.com/idleberg/Paraiso.tmTheme/master/preview/screenshot.gif)
+![Animated Screenshot](https://raw.github.com/idleberg/ParaisoBlack.tmTheme/master/preview/screenshot.gif)
 
 ## Installation
 
