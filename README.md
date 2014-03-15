@@ -34,6 +34,3 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 ## Donate
 
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/ParaisoBlack.tmTheme) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/paraisoblack.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
