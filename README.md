@@ -1,4 +1,4 @@
-# Paraíso Black for TextMate & Sublime Text
+# Paraíso Black for TextMate & Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/ParaisoBlack.tmTheme.png)](http://travis-ci.org/idleberg/ParaisoBlack.tmTheme)
 
 Modified color scheme based on [Paraíso](https://github.com/idleberg/Paraiso.tmTheme), a theme inspired by the work of [Rubens LP](http://www.rubenslp.com.br).
 
