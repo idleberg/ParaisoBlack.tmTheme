@@ -1,4 +1,7 @@
-# Paraíso Black for TextMate & Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/ParaisoBlack.tmTheme.png)](http://travis-ci.org/idleberg/ParaisoBlack.tmTheme)
+# Paraíso Black for TextMate & Sublime Text
+
+[![Creative Commons](https://img.shields.io/badge/license-CC--BY--SA%204.0-orange.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![Travis CI](https://img.shields.io/travis/idleberg/ParaisoBlack.tmTheme.svg?style=flat-square)](https://travis-ci.org/idleberg/ParaisoBlack.tmTheme)
 
 Modified color scheme based on [Paraíso](https://github.com/idleberg/Paraiso.tmTheme), a theme inspired by the work of [Rubens LP](http://www.rubenslp.com.br).
 
